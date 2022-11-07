@@ -5,4 +5,4 @@
 
 #   pandas --> parte da integração com excel
 #   openpyxl --> parte da integração com o excel
-#   twilio --> intergação com SMS
+#   twilio --> integração com SMS
