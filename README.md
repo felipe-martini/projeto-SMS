@@ -34,4 +34,4 @@ for mes in lista_meses:
             to="+5514991519731",
             from_="+18563861147",
             body=f'No mês de {mes} alguem bateu a meta.     Vendedor: {vendedor}    Vendas: {vendas}')
-        print(message.sid)
+        print(message.sid).
